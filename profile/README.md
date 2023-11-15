@@ -1,8 +1,8 @@
-# The flake-parts organization
+# The flake-parts GitHub "organization"
 
 Hello fellow Nixer 👋
 
-This organization provides a place for future infrastructure around [flake-parts](https://flake.parts).
+This GitHub organization provides a place for future infrastructure around [flake-parts](https://flake.parts).
 
 As flake-parts' main goal is to provide a common ground for otherwise disparate modules to be combined, you'll find that the interesting stuff happens elsewhere.
 
